@@ -6,7 +6,9 @@ The frontend is built with React + TypeScript + Tailwind CSS, offering smooth UI
 The goal is to create a responsive, maintainable, and intelligent bookstore experience.
 
 📘 Features
+
 🛍️ User Features
+
 Browse a huge catalog of books with grid/list toggle view
 
 Search books by title, author, or description
@@ -17,7 +19,9 @@ Add books to a cart (uses React Context API)
 
 View detailed information for each book
 
+
 🛠️ Admin Panel
+
 Add, edit, delete books
 
 Filter/search by category or keywords
@@ -26,7 +30,9 @@ Modal-based book editing forms
 
 Stock quantity management and ISBN info
 
+
 ⚙️ Backend (Node.js + SQLite)
+
 RESTful APIs (/api/books, /api/categories, /api/admin/books)
 
 Search, filter, and sort books
@@ -35,7 +41,9 @@ Secure admin endpoints
 
 CSV data import with csv-parser and UUIDs for book IDs
 
+
 🛠️ Future Enhancements
+
 
 🔍 AI Recommendations (via OpenAI or HuggingFace APIs)
 
